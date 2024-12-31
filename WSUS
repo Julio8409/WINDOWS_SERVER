@@ -1,0 +1,4 @@
+Check WSUS Source
+
+ reg query HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\
+
